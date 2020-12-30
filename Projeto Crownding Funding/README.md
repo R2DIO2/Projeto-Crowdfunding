@@ -1,0 +1,2 @@
+# dotnet-projeto-vaquinha
+Projeto criado através da palestra "Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding", realizada durante o bootcamp Decola Dev Avanade 2021.
